@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppMasasCongeldas</string>
+
+
+    <string-array name="categoria">
+        <item>Categoria 1</item>
+        <item>Categoria 2</item>
+        <item>Categoria 3</item>
+        <item>Categoria 4</item>
+    </string-array>
 </resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414621691689",
+    "project_id": "appmasascongeladas-b38ad",
+    "storage_bucket": "appmasascongeladas-b38ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414621691689:android:e6e29df2c53afb8e9c5138",
+        "android_client_info": {
+          "package_name": "es.borja.appmasascongeldas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414621691689-v0kcg0ef9dqpt2jrfn1omspgnctscnhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClj2rWP7CbJE67jyMDm2w4XU6B82-j22U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414621691689-v0kcg0ef9dqpt2jrfn1omspgnctscnhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
